@@ -5,12 +5,20 @@
       "id": "mndl67hg1eu2k9p7wfz",
       "name": "Pending",
       "color": "#888",
+      "cards": []
+    },
+    {
+      "id": "mndl67hgftqbkabi8kb",
+      "name": "On Hold",
+      "color": "#e89c4a",
       "cards": [
         {
           "id": "mndmzlmx8afj3bkwrl4",
           "title": "Jaydes — Rose",
-          "notes": "Requester comment: testing\nSubmitted by: anonymous\nURL: https://osu.ppy.sh/beatmapsets/2530236#mania/5592368",
-          "labels": [],
+          "notes": "will try and look at when i am ready for it",
+          "labels": [
+            "red"
+          ],
           "tags": [
             "anonymous"
           ],
@@ -421,12 +429,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "mndl67hgftqbkabi8kb",
-      "name": "On Hold",
-      "color": "#e89c4a",
-      "cards": []
     },
     {
       "id": "mndl67hggdeay7tr1so",
