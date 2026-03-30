@@ -1,0 +1,47 @@
+{
+  "title": "Mocha's Modding Queue",
+  "columns": [
+    {
+      "id": "mndl67hg1eu2k9p7wfz",
+      "name": "Pending",
+      "color": "#888",
+      "cards": []
+    },
+    {
+      "id": "mndl67hgftqbkabi8kb",
+      "name": "On Hold",
+      "color": "#e89c4a",
+      "cards": []
+    },
+    {
+      "id": "mndl67hggdeay7tr1so",
+      "name": "Accepted",
+      "color": "#5b9bd5",
+      "cards": []
+    },
+    {
+      "id": "mndl67hgoelmeojyfh8",
+      "name": "Checking",
+      "color": "#9b59b6",
+      "cards": []
+    },
+    {
+      "id": "mndl67hg8gx336krjy4",
+      "name": "Done",
+      "color": "#4caf50",
+      "cards": []
+    },
+    {
+      "id": "mndl67hgpzx8wc9isw",
+      "name": "Nominated",
+      "color": "#f1c40f",
+      "cards": []
+    },
+    {
+      "id": "mndl67hgwlac3ri615t",
+      "name": "Rejected",
+      "color": "#e74c3c",
+      "cards": []
+    }
+  ]
+}
