@@ -440,6 +440,12 @@
       "id": "mndl67hgoelmeojyfh8",
       "name": "Checking",
       "color": "#9b59b6",
+      "cards": []
+    },
+    {
+      "id": "mndl67hg8gx336krjy4",
+      "name": "Done",
+      "color": "#4caf50",
       "cards": [
         {
           "id": "mngv77hdys5wap8y6as",
@@ -863,12 +869,6 @@
           }
         }
       ]
-    },
-    {
-      "id": "mndl67hg8gx336krjy4",
-      "name": "Done",
-      "color": "#4caf50",
-      "cards": []
     },
     {
       "id": "mndl67hgpzx8wc9isw",
